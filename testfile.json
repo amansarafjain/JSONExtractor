@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "firstname": "Aman",
+  "languages": [
+    {
+      "lang": "en",
+      "knowledge": "proficient"
+    },
+    {
+      "lang": "Hindi",
+      "knowledge": "advanced"
+    }
+  ],
+  "job": {
+    "site": "amansarafjain.blogspot.com",
+    "name": "Sample extractor"
+  }
+}
